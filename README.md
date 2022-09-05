@@ -1,16 +1,13 @@
-# ui_villa
+# Quotes Application in Flutter
 
-A new Flutter project.
+I recently started Exploring Flutter and trying my hands on various 
+screens and applications. This is of my First Application.
 
-## Getting Started
+This app contains Image Slideshow , and fetched data through internet.
 
-This project is a starting point for a Flutter application.
+Also I tried my Best to keep the UI(User Interface) Clean.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Application was part of my Udemy Course : Flutter & Dart for
+Beginners ~ Aditya Thakur
+# Outputs :
+https://github.com/prasanna-muppidwar/Quotes-Application-in-Flutter/blob/master/quoteScreen.jpeg
