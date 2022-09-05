@@ -10,6 +10,9 @@ Also I tried my Best to keep the UI(User Interface) Clean.
 This Application was part of my Udemy Course : Flutter & Dart for
 Beginners ~ Aditya Thakur
 # Outputs :
-![Screenshot](homeScreen.jpeg)
+![Screenshot](homescreen.jpeg)
 
+![Screenshot](quoteScreen.jpeg)
+
+![Screenshot](errorScreen.jpeg)
 
