@@ -1,9 +1,10 @@
 # Quotes Application in Flutter
 
 I recently started Exploring Flutter and trying my hands on various 
-screens and applications. This is of my First Application.
+screens and applications. This is one of my First Application.
 
-This app contains Image Slideshow , and fetched data through internet.
+This app contains 
+Image Slideshow , and fetched data through internet.
 
 Also I tried my Best to keep the UI(User Interface) Clean.
 
